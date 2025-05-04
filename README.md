@@ -22,7 +22,7 @@ This project uses the K-Nearest Neighbors (KNN) classification algorithm to pred
 ## Dataset
 The dataset used is **Social_Network_Ads.csv**, which contains features like `User ID`, `Gender`, `Age`, `EstimatedSalary`, and `Purchased`.
 
-Place the `Social_Network_Ads.csv` file in the project directory.
+
 
 ---
 
